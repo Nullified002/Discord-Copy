@@ -137,7 +137,7 @@ body {
 #voicetxt {
   display: flex;
   flex-direction: column;
-  grid-column: span / 4;
+  grid-column: span 4;
 }
 #voicetxt h2 {font-size: 48px; margin: 0;}
 #voicetxt p {margin-bottom: 0; line-height: 30px;}
